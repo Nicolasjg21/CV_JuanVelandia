@@ -1,22 +1,34 @@
-# CV_Example
+# CV_Juan_Velandia
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Juan Nicolas Velandia Garcia
+**Profesión:** _Analista y desarrollador de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** +57 3178083767
+- **Email:** [nicovelaga.123456789.z@gmail.com](nicovelaga.123456789.z@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **SENA aprendiz en analisis y desarrollo de software** _(2025 - Actualidad)_
+- En formacion
+### **Encargado de atención al cliente y apoyo en ventas en local de productos de iluminación** _(2025 - un semestre)_
+- Asesoría a clientes en la compra de productos de iluminación.
+- Gestión básica de inventario y organización del punto de venta.
+- Manejo de caja y atención personalizada.
+### **Asistente en ventas de comercio en libreria** _(lapsos temporales)_
+- Apoyo ocasional en ventas, organización y atención al cliente.
+- Manejo de productos y orientación al comprador.
+- Colaboración en temporadas de alta demanda.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+
+
 
 ## 🎓 Educación
+### **SENA aprendiz en analisis y desarrollo de software** _(2025 - Actualidad)_
+- En formacion.
+### **Bachiller en Gimnasio Obregon** _(2015 - 2024)_
+- Título obtenido.
 ### **Universidad Ejemplo** _(2014 - 2018)_
 - Título obtenido.
 
