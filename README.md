@@ -29,8 +29,7 @@
 - En formacion.
 ### **Bachiller en Gimnasio Obregon** _(2015 - 2024)_
 - Título obtenido.
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+
 
 ## 💡 Habilidades
 ### Habilidades blandas
