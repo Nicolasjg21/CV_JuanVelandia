@@ -33,9 +33,18 @@
 - Título obtenido.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+### Habilidades blandas
+- Comunicación efectiva.
+- Trabajo en equipo.
+- Orientación al cliente.
+- Adaptabilidad.
+- Resolución de problemas.
+- Gestión de prioridades.
+- Iniciativa para proponer mejoras.
+
+### Habilidades técnicas
+- Documentación y seguimiento de proyectos.
+- Organización del trabajo y asignación de tareas según fortalezas.
 
 ---
 
